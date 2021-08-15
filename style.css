@@ -1,0 +1,32 @@
+.head{
+    font-size:23px;
+    margin: 0;
+    width: 100%;
+    box-shadow: 5px 5px 5px #E3C15D;
+}
+
+.note{
+    font-size: 15px;
+    color: #FDE968;
+}
+
+.cpy_right{
+    background-color: #FDA568;
+    color: chocolate;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+
+.cpy_right a{
+    text-decoration: none;
+    color: chocolate;
+}
+
+canvas{
+    border: 5px solid #E3C45D;
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px #FDA568;
+}
